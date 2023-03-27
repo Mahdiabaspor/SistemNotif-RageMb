@@ -50,7 +50,7 @@ function App() {
   }
   return (
     <div className="App">
-      <button onClick={test}>click me</button>
+
     </div>
   );
 }
